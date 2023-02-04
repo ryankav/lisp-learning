@@ -23,4 +23,9 @@ $ gvim foo.lisp
 
 After that the swank server is started with the command `, c` and you can evaluate the file you're working on is `, e`
 
+### Todo
+
+- work through the [basic tutorials](https://lisp-lang.org/learn/first-steps)
+- work through the [Practical Commmon Lisp](https://lisp-lang.org/books/#practical-common-lisp) book
+- Consider improving the docker environment if I feel better IDE support would help
 
