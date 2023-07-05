@@ -7,6 +7,8 @@ Repository for learning lisp - the language I've decided to learn this year. The
 
 This repository just contains a simple docker file which builds an environment with all the required setup to write lisp files.
 
+**To Note: I am using neovim locally and not running the code in a container, I will try and keep the dockerfile in sync but no promise is made**
+
 The way to use this repository is to cd into the project directory then build the docker image and start a new container with the files you wish to work on mounted into the container - the example below shows mounting the src directory but can be changed as desired.
 
 ```console
